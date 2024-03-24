@@ -1,0 +1,32 @@
+img {
+  height: 150px;
+  width: auto;
+}
+h1 {
+  font-family: "Architects Daughter", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: larger;
+  color: brown;
+}
+
+ol {
+  margin: auto;
+}
+
+li {
+  font-weight: lighter;
+}
+
+footer {
+  color: blueviolet;
+}
+
+.bold {
+  font-weight: bold;
+  font-style: italic;
+}
+
+#green {
+  color: green;
+}
